@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1 group-title="玩偶",情侣游戏 零
 https://v4.cvhlscdn.com/20221204/dDLVEjQM/hls/index.m3u8
 #EXTINF:-1 group-title="玩偶",情侣游戏 壹
